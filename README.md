@@ -42,32 +42,28 @@ Focused on building scalable web applications, AI-powered systems, and modern di
 
 `AI Integrations` • `React Ecosystem` • `Backend Scalability` • `System Design`
 
----
 
 ## Languages & Tools...
 
+### - Languages and Tools...
+
 <p align="center">
-  <!-- Languages -->
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-
-  <!-- Frameworks -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-
-  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-
-  <!-- Database -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/mysql.svg" alt="mysql" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/firebase.svg" alt="firebase" style="vertical-align:top; margin:4px">
 </p>
-
----
 
 ## AI Stack
 
@@ -79,7 +75,6 @@ Focused on building scalable web applications, AI-powered systems, and modern di
   <img src="https://img.shields.io/badge/NotebookLM-0D1117?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
----
 
 ## Featured Projects
 
@@ -94,8 +89,6 @@ AI-powered vendor risk scorecard platform focused on evaluating and monitoring v
 </td>
 </tr>
 </table>
-
-<br>
 
 <table>
 <tr>
@@ -117,7 +110,6 @@ News-sharing platform enabling users to publish, explore, and interact with comm
 </tr>
 </table>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=e3694a&height=100&section=footer"/>

@@ -75,9 +75,8 @@ Focused on building scalable web applications, AI-powered systems, and modern di
 <tr>
 <td width="100%" valign="top">
 
-<a href="verisq-ai-full-git-postgres-migration-pkrishna111s-projects.vercel.app">
-    ### ⚡ Verisq AI
-</a>
+### <a href="verisq-ai-full-git-postgres-migration-pkrishna111s-projects.vercel.app">⚡ Verisq AI</a>
+
 
 AI-powered vendor risk scorecard platform focused on evaluating and monitoring vendor risks through managed workflows and free-trial access systems.
 
@@ -89,9 +88,7 @@ AI-powered vendor risk scorecard platform focused on evaluating and monitoring v
 <tr>
 <td width="48%" valign="top">
 
-<a href="https://project-space.infy.uk/Pixo/">
-    ### 🌐 Pixo
-</a>
+### <a href="https://project-space.infy.uk/Pixo/">🌐 Pixo</a>
 
 Community-based social platform where users can share posts, interact inside communities, and connect through discussions.
 
